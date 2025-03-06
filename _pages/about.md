@@ -21,11 +21,11 @@ Welcome to my personal website! I am Tinghong Ye (Chinese: 叶庭宏), a highly 
 
 My research is centered on advancing robotic autonomy through intelligent control and robot visual perception(especially for Legged Robots), addressing critical challenges in complex environment navigation and swarm coordination. Modern robotics systems often struggle with dynamic obstacle traversal and real-time adaptability, particularly in unstructured terrains. I am deeply committed to developing robust algorithmic frameworks that **integrate model predictive control (MPC), sensor fusion, and adaptive path planning** to enable efficient and resilient robotic behaviors. My work directly aligns with this vision, focusing on:
 
-- **Multi-Agent Formation Control**: Designing the experiments of CLF-CBF-based algorithms for distributed quadruped robot swarms, optimizing obstacle traversal through hierarchical conflict resolution and dynamic path planning.
+- **Multi-Agent Formation Control**: Designing the experiments of **CLF-CBF-based algorithms** for distributed quadruped robot swarms, optimizing obstacle traversal through hierarchical conflict resolution and dynamic path planning.
 
-- **Sensor-Driven Autonomy**: Enhancing environmental perception via LiDAR and depth camera fusion, leveraging LCCP segmentation and RANSAC plane fitting to improve localization accuracy in unstructured scenarios.
+- **Sensor-Driven Autonomy**: Enhancing environmental perception via **LiDAR and depth camera fusion**, leveraging LCCP segmentation and RANSAC plane fitting to improve localization accuracy in unstructured scenarios.
 
-- **Real-Time Optimization**: Implementing MPC controllers for 12-DOF quadruped robots, balancing computational efficiency and motion precision through C++-based matrix operations and ROS integration.
+- **Real-Time Optimization**: Implementing **MPC controllers for 12-DOF quadruped robots**, balancing computational efficiency and motion precision through C++-based matrix operations and ROS integration.
 
 These innovations have been validated in national robotics competitions and contribute to the development of a more capable and adaptable robotic system capable of navigating complex environments.  Pursuing further research in these areas will bridge theoretical advancements with real-world deployability, fostering intelligent robotics that adapt to evolving challenges.
 
