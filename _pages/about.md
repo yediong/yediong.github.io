@@ -29,7 +29,7 @@ My research is centered on advancing robotic autonomy through intelligent contro
 
 These innovations have been validated in national robotics competitions and contribute to the development of a more capable and adaptable robotic system capable of navigating complex environments.  Pursuing further research in these areas will bridge theoretical advancements with real-world deployability, fostering intelligent robotics that adapt to evolving challenges.
 
-You can find my CV here: [Tinghong Ye's Curriculum Vitae](../assets/cv_zh.pdf).
+You can find my CV here: [Tinghong Ye's Curriculum Vitae](../assets/叶庭宏_蓝_V3.pdf).
 
 # 🔥 News
 - *2025.03*: &nbsp;🎉 A paper that I have been deeply involved in has been submitted to 2025 IROS Conference. The research direction of the paper focuses on distributed formation and obstacle traversal for quadruped robot swarms. 
