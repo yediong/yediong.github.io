@@ -44,6 +44,7 @@ You can find my CV here: [Tinghong Ye's Curriculum Vitae](../assets/叶庭宏_�
 A Distributed Quadratic Programming (QP)-based Safe Formation Control Scheme for Multiple Quadruped Robots
 
 Danfu Liu*, Peixuan Song*, **Tinghong Ye**, Qichen Liang, Jinhui Du, Lijun Zhu and Han Ding
+
 - Introduced a **hierarchical** control strategy: an upper-layer distributed planner for trajectory generation and a lower-layer MPC-based locomotion controller for trajectory tracking.
 - Demonstrated effectiveness through **simulations and real-world** experiments with Unitree A1 robots, achieving formation control in complex obstacle environments while meeting safety constraints.
 - The project code will be released after acceptance of the paper.
@@ -55,7 +56,9 @@ Danfu Liu*, Peixuan Song*, **Tinghong Ye**, Qichen Liang, Jinhui Du, Lijun Zhu a
 <div class='paper-box-text' markdown="1">
 
 Bone Age Prediction using a Convolutional Neural Network-based Regression Algorithm employing Attention-Directing and Cluster
+
 Tao Ma*, **Tinghong Ye***, Lixin Deng*, Yizhu Tang, TakMan LO, Kaip Tse, Yuzhi Huang, Zhihao Li, Renzhi Lu
+
 - Proposed a dual-driven deep learning framework (ACNNet) for bone age assessment, combining cluster analysis and attention-guided CNN regression to hierarchically enhance age-sensitive anatomical features in hand radiographs.
 - Introduced an adaptive spatial attention module (ASAM) for ROI detection and a Bayesian-optimized ensemble strategy to fuse predictions from age-specific subsets, improving interpretability and accuracy.
 </div>
