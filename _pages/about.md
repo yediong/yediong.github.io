@@ -19,7 +19,7 @@ redirect_from:
 
 Welcome to my personal website! I am Tinghong Ye (Chinese: 叶庭宏), a highly motivated and passionate undergraduate student majoring in Artificial Intelligence at Huazhong University of Science and Technology (HUST). I am currently a junior (Class of 2022) with a strong academic record and a deep interest in **Embodied AI**, particularly in **Robotics control and perception algorithms**.
 
-My research is centered on advancing robotic autonomy through intelligent control and robot visual perception(especially for Legged Robots), addressing critical challenges in complex environment navigation and swarm coordination. Modern robotics systems often struggle with dynamic obstacle traversal and real-time adaptability, particularly in unstructured terrains. I am deeply committed to developing robust algorithmic frameworks that **integrate model predictive control (MPC), sensor fusion, and adaptive path planning** to enable efficient and resilient robotic behaviors. My work directly aligns with this vision, focusing on:
+My research is centered on advancing robotic autonomy through intelligent control and visual perception, addressing critical challenges in complex environment navigation and swarm coordination. Modern robotics systems often struggle with dynamic obstacle traversal and real-time adaptability, particularly in unstructured terrains. I am deeply committed to developing robust algorithmic frameworks that **integrate model predictive control (MPC), sensor fusion, and adaptive path planning** to enable efficient and resilient robotic behaviors. My work directly aligns with this vision, focusing on:
 
 - **Multi-Agent Formation Control**: Designing the experiments of **CLF-CBF-based algorithms** for distributed quadruped robot swarms, optimizing obstacle traversal through hierarchical conflict resolution and dynamic path planning.
 
@@ -43,7 +43,7 @@ You can find my CV here: [Tinghong Ye's Curriculum Vitae](../assets/叶庭宏_�
 
 A Distributed Quadratic Programming (QP)-based Safe Formation Control Scheme for Multiple Quadruped Robots
 
-Danfu Liu*, Peixuan Song*, **Tinghong Ye**, Qichen Liang, Jinhui Du, Lijun Zhu and Han Ding
+Danfu Liu\*, Peixuan Song\*, **Tinghong Ye**, Qichen Liang, Jinhui Du, Lijun Zhu and Han Ding
 
 - Introduced a **hierarchical** control strategy: an upper-layer distributed planner for trajectory generation and a lower-layer MPC-based locomotion controller for trajectory tracking.
 - Demonstrated effectiveness through **simulations and real-world** experiments with Unitree A1 robots, achieving formation control in complex obstacle environments while meeting safety constraints.
@@ -57,7 +57,7 @@ Danfu Liu*, Peixuan Song*, **Tinghong Ye**, Qichen Liang, Jinhui Du, Lijun Zhu a
 
 Bone Age Prediction using a Convolutional Neural Network-based Regression Algorithm employing Attention-Directing and Cluster
 
-Tao Ma*, **Tinghong Ye***, Lixin Deng*, Yizhu Tang, TakMan LO, Kaip Tse, Yuzhi Huang, Zhihao Li, Renzhi Lu
+Tao Ma\*, **Tinghong Ye**\*, Lixin Deng\*, Yizhu Tang, TakMan LO, Kaip Tse, Yuzhi Huang, Zhihao Li, Renzhi Lu
 
 - Proposed a dual-driven deep learning framework (ACNNet) for bone age assessment, combining cluster analysis and attention-guided CNN regression to hierarchically enhance age-sensitive anatomical features in hand radiographs.
 - Introduced an adaptive spatial attention module (ASAM) for ROI detection and a Bayesian-optimized ensemble strategy to fuse predictions from age-specific subsets, improving interpretability and accuracy.
