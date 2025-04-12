@@ -32,8 +32,34 @@ These innovations have been validated in national robotics competitions and cont
 You can find my CV here: [Tinghong Ye's Curriculum Vitae](../assets/叶庭宏_简历.pdf).
 
 # 🔥 News
-- *2025.03*: &nbsp;🎉 A paper that I have been deeply involved in has been submitted to 2025 IROS Conference. The research direction of the paper focuses on distributed formation and obstacle traversal for quadruped robot swarms. 
-- *2024.05*: &nbsp;🤗 Started Research Intern at Intelligence Manufacturing and Data Science Laboratory, focusing on Robotics Control Algorithm. 
+- *2025.04*: &nbsp;🤗 Started Research Intern at [Binjiang Institute of Zhejiang University](http://ibj.zju.edu.cn/), ZJU, focusing on 3D Understanding based on MLLM and CoT. 
+- *2025.03*: &nbsp;🎉 A paper that I have been deeply involved in has been submitted to **2025 IROS Conference**. The research direction of the paper focuses on distributed formation and obstacle traversal for quadruped robot swarms. 
+- *2024.05*: &nbsp;🤗 Started Research Intern at [Intelligence Manufacturing and Data Science Laboratory](http://imds.aia.hust.edu.cn/index.htm), Hust, focusing on Robotics Control Algorithm. 
+
+# 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2025</div><img src='images/CLFCBF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+A Distributed Quadratic Programming (QP)-based Safe Formation Control Scheme for Multiple Quadruped Robots
+
+Danfu Liu*, Peixuan Song*, **Tinghong Ye**, Qichen Liang, Jinhui Du, Lijun Zhu and Han Ding
+- Introduced a **hierarchical** control strategy: an upper-layer distributed planner for trajectory generation and a lower-layer MPC-based locomotion controller for trajectory tracking.
+- Demonstrated effectiveness through **simulations and real-world** experiments with Unitree A1 robots, achieving formation control in complex obstacle environments while meeting safety constraints.
+- The project code will be released after acceptance of the paper.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE INDIN 2025</div><img src='images/bone.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Bone Age Prediction using a Convolutional Neural Network-based Regression Algorithm employing Attention-Directing and Cluster
+Tao Ma*, **Tinghong Ye***, Lixin Deng*, Yizhu Tang, TakMan LO, Kaip Tse, Yuzhi Huang, Zhihao Li, Renzhi Lu
+- Proposed a dual-driven deep learning framework (ACNNet) for bone age assessment, combining cluster analysis and attention-guided CNN regression to hierarchically enhance age-sensitive anatomical features in hand radiographs.
+- Introduced an adaptive spatial attention module (ASAM) for ROI detection and a Bayesian-optimized ensemble strategy to fuse predictions from age-specific subsets, improving interpretability and accuracy.
+</div>
+</div>
 
 # 🎖 Honors and Awards
 
@@ -58,4 +84,5 @@ You can find my CV here: [Tinghong Ye's Curriculum Vitae](../assets/叶庭宏_�
 - *2022.09 - Present*, Huazhong University of Science and Technology, Bachelor of Artificial Intelligence
 
 # 💻 Internships
+- *2025.04 - Present*, Research Intern, Binjiang Institute of Zhejiang University, Zhejiang University
 - *2024.05 - 2025.03*, Research Intern, Intelligence Manufacturing and Data Science Laboratory, Huazhong University of Science and Technology (Advised by Prof. [Lijun Zhu](http://faculty.hust.edu.cn/ZHULIJUN/en/more/2288717/jsjjgd/index.htm))
