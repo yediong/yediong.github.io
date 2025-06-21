@@ -88,5 +88,5 @@ Tao Ma\*, **Tinghong Ye**\*, Lixin Deng\*, Yizhu Tang, TakMan LO, Kaip Tse, Yuzh
 - *2022.09 - Present*, Huazhong University of Science and Technology, Bachelor of Artificial Intelligence
 
 # 💻 Internships
-- *2025.04 - Present*, Research Intern, Peking University (collaborated with Prof. [Ge Li](https://www.ece.pku.edu.cn/info/1046/2658.htm))
+- *2025.04 - Present*, Research Intern, National Engineering Laboratory for Video Technology, Peking University (collaborated with Prof. [Ge Li](https://www.ece.pku.edu.cn/info/1046/2658.htm))
 - *2024.05 - 2025.03*, Research Intern, Intelligence Manufacturing and Data Science Laboratory, Huazhong University of Science and Technology (Advised by Prof. [Lijun Zhu](http://faculty.hust.edu.cn/ZHULIJUN/en/more/2288717/jsjjgd/index.htm))
