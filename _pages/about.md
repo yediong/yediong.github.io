@@ -34,7 +34,7 @@ I am passionate about Embodied AI, focusing on building autonomous systems that 
 These innovations have been validated in national robotics competitions and contribute to the development of a more capable and adaptable robotic system capable of navigating complex environments.  Pursuing further research in these areas will bridge theoretical advancements with real-world deployability, fostering intelligent robotics that adapt to evolving challenges.
 
 # 🔥 News
-- *2025.04*: &nbsp;🤗 Started Research Intern at [National Engineering Laboratory for Video Technology – Shenzhen Division]([http://ibj.zju.edu.cn/](https://web.pkusz.edu.cn/ldm/)), PKU, focusing on 3D Understanding based on MLLM and CoT. 
+- *2025.04*: &nbsp;🤗 Started Research Intern at [National Engineering Laboratory for Video Technology – Shenzhen Division](https://web.pkusz.edu.cn/ldm/), PKU, focusing on 3D Understanding based on MLLM and CoT. 
 - *2024.05*: &nbsp;🤗 Started Research Intern at [Intelligence Manufacturing and Data Science Laboratory](http://imds.aia.hust.edu.cn/index.htm), Hust, focusing on Robotics Path-Planning and Control Algorithm. 
 
 # 📝 Publications 
