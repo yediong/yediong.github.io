@@ -19,31 +19,32 @@ redirect_from:
 
 Welcome to my personal website! I am Tinghong Ye (Chinese: 叶庭宏), a highly motivated and passionate undergraduate student majoring in Artificial Intelligence at Huazhong University of Science and Technology (HUST). I am currently a junior (Class of 2022) with a strong academic record and a deep interest in **Embodied AI**, particularly in **Robotics control and perception algorithms**.
 
-My research is centered on advancing robotic autonomy through intelligent control and visual perception, addressing critical challenges in complex environment navigation and swarm coordination. Modern robotics systems often struggle with dynamic obstacle traversal and real-time adaptability, particularly in unstructured terrains. I am deeply committed to developing robust algorithmic frameworks that **integrate model predictive control (MPC), sensor fusion, and adaptive path planning** to enable efficient and resilient robotic behaviors. My work directly aligns with this vision, focusing on:
+I am passionate about Embodied AI, focusing on building autonomous systems that can intelligently perceive, navigate, and interact with the physical world. My research integrates state-of-the-art techniques in **multi-modal perception, real-time motion planning, and model predictive control (MPC)**. I apply these principles to challenging platforms like quadruped robots, aiming to enhance their autonomy and adaptability in complex, unstructured environments.
 
-- **Multi-Agent Formation Control**: Designing the experiments of **CLF-CBF-based algorithms** for distributed quadruped robot swarms, optimizing obstacle traversal through hierarchical conflict resolution and dynamic path planning.
+- **3D Vision & Scene Understanding🧠**: Construct the SpatialReason benchmark containing multi-hop QA pairs that require complex **spatial perception**, effectively enhance the interpretability of 3D-VQA reasoning paths.
 
-- **Sensor-Driven Autonomy**: Enhancing environmental perception via **LiDAR and depth camera fusion**, leveraging LCCP segmentation and RANSAC plane fitting to improve localization accuracy in unstructured scenarios.
+- **Vision-Language Model Application👀**: Built a tactical analysis system based on Vision-Language Models, employing CoT prompting to reason and predict complex sequential actions.
 
-- **Real-Time Optimization**: Implementing **MPC controllers for 12-DOF quadruped robots**, balancing computational efficiency and motion precision through C++-based matrix operations and ROS integration.
+- **Multi-Agent Formation Control🦵**: Designing the experiments of **CLF-CBF-based algorithms** for distributed quadruped robot swarms, optimizing obstacle traversal through hierarchical conflict resolution and dynamic path planning.
+
+- **Sensor-Driven Autonomy🔍**: Enhancing environmental perception via **LiDAR and depth camera fusion**, leveraging LCCP segmentation and RANSAC plane fitting to improve localization accuracy in unstructured scenarios.
+
+- **Real-Time Optimization⚡**: Implementing **MPC controllers for 12-DOF quadruped robots**, balancing computational efficiency and motion precision through C++-based matrix operations and ROS integration.
 
 These innovations have been validated in national robotics competitions and contribute to the development of a more capable and adaptable robotic system capable of navigating complex environments.  Pursuing further research in these areas will bridge theoretical advancements with real-world deployability, fostering intelligent robotics that adapt to evolving challenges.
 
-You can find my CV here: [Tinghong Ye's Curriculum Vitae](../assets/叶庭宏_简历.pdf).
-
 # 🔥 News
-- *2025.04*: &nbsp;🤗 Started Research Intern at [Binjiang Institute of Zhejiang University](http://ibj.zju.edu.cn/), ZJU, focusing on 3D Understanding based on MLLM and CoT. 
-- *2025.03*: &nbsp;🎉 A paper that I have been deeply involved in has been submitted to **2025 IROS Conference**. The research direction of the paper focuses on distributed formation and obstacle traversal for quadruped robot swarms. 
+- *2025.04*: &nbsp;🤗 Started Research Intern at [National Engineering Laboratory for Video Technology – Shenzhen Division]([http://ibj.zju.edu.cn/](https://web.pkusz.edu.cn/ldm/)), PKU, focusing on 3D Understanding based on MLLM and CoT. 
 - *2024.05*: &nbsp;🤗 Started Research Intern at [Intelligence Manufacturing and Data Science Laboratory](http://imds.aia.hust.edu.cn/index.htm), Hust, focusing on Robotics Control Algorithm. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2025</div><img src='images/CLFCBF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RAL 2026</div><img src='images/CLFCBF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-A Distributed Quadratic Programming (QP)-based Safe Formation Control Scheme for Multiple Quadruped Robots
+A Distributed Quadratic Programming (QP)-based Safe Formation Control Scheme for Multiple Quadruped Robots (Under submission)
 
-Danfu Liu\*, Peixuan Song\*, **Tinghong Ye**, Qichen Liang, Jinhui Du, Lijun Zhu and Han Ding
+Danfu Liu\*, Peixuan Song\*, **Tinghong Ye\***, Qichen Liang, Jinhui Du, Lijun Zhu and Han Ding
 
 - Introduced a **hierarchical** control strategy: an upper-layer distributed planner for trajectory generation and a lower-layer MPC-based locomotion controller for trajectory tracking.
 - Demonstrated effectiveness through **simulations and real-world** experiments with Unitree A1 robots, achieving formation control in complex obstacle environments while meeting safety constraints.
@@ -52,7 +53,7 @@ Danfu Liu\*, Peixuan Song\*, **Tinghong Ye**, Qichen Liang, Jinhui Du, Lijun Zhu
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE INDIN 2025</div><img src='images/bone.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INDIN 2025</div><img src='images/bone.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Bone Age Prediction using a Convolutional Neural Network-based Regression Algorithm employing Attention-Directing and Cluster
@@ -87,5 +88,5 @@ Tao Ma\*, **Tinghong Ye**\*, Lixin Deng\*, Yizhu Tang, TakMan LO, Kaip Tse, Yuzh
 - *2022.09 - Present*, Huazhong University of Science and Technology, Bachelor of Artificial Intelligence
 
 # 💻 Internships
-- *2025.04 - Present*, Research Intern, Binjiang Institute of Zhejiang University, Zhejiang University
+- *2025.04 - Present*, Research Intern, Peking University (collaborated with Prof. [Ge Li](https://www.ece.pku.edu.cn/info/1046/2658.htm))
 - *2024.05 - 2025.03*, Research Intern, Intelligence Manufacturing and Data Science Laboratory, Huazhong University of Science and Technology (Advised by Prof. [Lijun Zhu](http://faculty.hust.edu.cn/ZHULIJUN/en/more/2288717/jsjjgd/index.htm))
