@@ -35,7 +35,7 @@ These innovations have been validated in national robotics competitions and cont
 
 # 🔥 News
 - *2025.04*: &nbsp;🤗 Started Research Intern at [National Engineering Laboratory for Video Technology – Shenzhen Division]([http://ibj.zju.edu.cn/](https://web.pkusz.edu.cn/ldm/)), PKU, focusing on 3D Understanding based on MLLM and CoT. 
-- *2024.05*: &nbsp;🤗 Started Research Intern at [Intelligence Manufacturing and Data Science Laboratory](http://imds.aia.hust.edu.cn/index.htm), Hust, focusing on Robotics Control Algorithm. 
+- *2024.05*: &nbsp;🤗 Started Research Intern at [Intelligence Manufacturing and Data Science Laboratory](http://imds.aia.hust.edu.cn/index.htm), Hust, focusing on Robotics Path-Planning and Control Algorithm. 
 
 # 📝 Publications 
 
