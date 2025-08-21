@@ -39,12 +39,12 @@ These innovations have been validated in national robotics competitions and cont
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RAL 2026</div><img src='images/CLFCBF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2026</div><img src='images/CLFCBF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 A Distributed Quadratic Programming (QP)-based Safe Formation Control Scheme for Multiple Quadruped Robots (Under submission)
 
-Danfu Liu\*, Peixuan Song\*, **Tinghong Ye\***, Qichen Liang, Jinhui Du, Lijun Zhu and Han Ding
+Danfu Liu\*, Peixuan Song\*, **Tinghong Ye**, Qichen Liang, Jinhui Du, Lijun Zhu and Han Ding
 
 - Introduced a **hierarchical** control strategy: an upper-layer distributed planner for trajectory generation and a lower-layer MPC-based locomotion controller for trajectory tracking.
 - Demonstrated effectiveness through **simulations and real-world** experiments with Unitree A1 robots, achieving formation control in complex obstacle environments while meeting safety constraints.
