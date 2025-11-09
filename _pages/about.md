@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome to my personal website! I am Tinghong Ye (Chinese: 叶庭宏), a highly motivated and passionate undergraduate student majoring in Artificial Intelligence at Huazhong University of Science and Technology (HUST). I am currently a junior (Class of 2022) with a strong academic record and a deep interest in **Embodied AI**, particularly in **Robotics control and perception algorithms**.
+Welcome to my personal website! I am Tinghong Ye (Chinese: 叶庭宏), a highly motivated and passionate undergraduate student majoring in Artificial Intelligence at Huazhong University of Science and Technology (HUST). I am currently a senior (Class of 2022) with a strong academic record and a deep interest in **Embodied AI**, particularly in **Robotics control and perception algorithms**.
 
 I am passionate about Embodied AI, focusing on building autonomous systems that can intelligently perceive, navigate, and interact with the physical world. My research integrates state-of-the-art techniques in **multi-modal perception, real-time motion planning, and model predictive control (MPC)**. I apply these principles to challenging platforms like quadruped robots, aiming to enhance their autonomy and adaptability in complex, unstructured environments.
 
@@ -37,12 +37,12 @@ These innovations have been validated in national robotics competitions and cont
 - *2025.04*: &nbsp;🤗 Started Research Intern at [National Engineering Laboratory for Video Technology – Shenzhen Division](https://web.pkusz.edu.cn/ldm/), PKU, focusing on 3D Understanding based on MLLM and CoT. 
 - *2024.05*: &nbsp;🤗 Started Research Intern at [Intelligence Manufacturing and Data Science Laboratory](http://imds.aia.hust.edu.cn/index.htm), Hust, focusing on Robotics Path-Planning and Control Algorithm. 
 
-# 📝 Publications 
+# 📝 Publication
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2026</div><img src='images/CLFCBF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2025</div><img src='images/CLFCBF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-A Distributed Quadratic Programming (QP)-based Safe Formation Control Scheme for Multiple Quadruped Robots (Under submission)
+A Distributed Quadratic Programming (QP)-based Safe Formation Control Scheme for Multiple Quadruped Robots (Rejected)
 
 Danfu Liu\*, Peixuan Song\*, **Tinghong Ye**, Qichen Liang, Jinhui Du, Lijun Zhu and Han Ding
 
@@ -56,7 +56,7 @@ Danfu Liu\*, Peixuan Song\*, **Tinghong Ye**, Qichen Liang, Jinhui Du, Lijun Zhu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">INDIN 2025</div><img src='images/bone.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Bone Age Prediction using a Convolutional Neural Network-based Regression Algorithm employing Attention-Directing and Cluster
+Bone Age Prediction using a Convolutional Neural Network-based Regression Algorithm employing Attention-Directing and Cluster (Accepted)
 
 Tao Ma\*, **Tinghong Ye**\*, Lixin Deng\*, Yizhu Tang, TakMan LO, Kaip Tse, Yuzhi Huang, Zhihao Li, Renzhi Lu
 
@@ -65,28 +65,34 @@ Tao Ma\*, **Tinghong Ye**\*, Lixin Deng\*, Yizhu Tang, TakMan LO, Kaip Tse, Yuzh
 </div>
 </div>
 
-# 🎖 Honors and Awards
-
+# 🎖 Honors and AwardS
+- *2025.09* **National Scholarship**
+- *2025.09* School merit student
+- *2025.07* First prize **(Runner-up)** in the **National** College Student Robot Competition (2025)
+- *2025.07* Second prize in the racing track of **National** College Student Robot Competition (2025)
+- *2025.07* Second prize in the obstacle track of **National** College Student Robot Competition (2025)
+- *2025.07* Second prize in the cross-country track of **National** College Student Robot Competition (2025)
 - *2024.11* Third prize in the Global Campus AI Algorithm Elite Competition **National** Finals
 - *2024.10* Science and technology innovation scholarship
-- *2024.07* First prize **(Runner-up)** in the **National** College Student Robot Competition
-- *2024.07* First prize **(Third place)** in the racing track of **National** College Student Robot Competition
-- *2024.07* First prize **(Fourth place)** in the obstacle track of **National** College Student Robot Competition
-- *2024.07* Third prize in the cross-country track of **National** College Student Robot Competition
+- *2024.07* First prize **(Runner-up)** in the **National** College Student Robot Competition (2024)
+- *2024.07* First prize **(Third place)** in the racing track of **National** College Student Robot Competition (2024)
+- *2024.07* First prize **(Fourth place)** in the obstacle track of **National** College Student Robot Competition (2024)
+- *2024.07* Third prize in the cross-country track of **National** College Student Robot Competition (2024)
 - *2024.05* Third prize of Chinese College Student Computer Design Competition provincial competition
 - *2024.05* Second prize in Huazhong Cup college students mathematical modeling contest
 - *2024.02* Honorable Mention in Mathematical Contest In Modeling(MCM/ICM)
-- *2023.10* School merit student **(top 5%)**
+- *2023.10* School merit student
 - *2023.09* Second prize in National College students Mathematical Modeling Contest provincial competition
 - *2023.08* Second prize in Wasu Cup National college students mathematical Modeling Contest
-- *2023.07* First prize in the National College Student Robot Competition
+- *2023.07* First prize in the National College Student Robot Competition (2023)
 - *2023.05* Outstanding Winner in School robot contest **(rk4)**
 - *2023.02* Freshmen study for merit scholarships
 
-# 📖 Educations
+# 📖 Education
+- *2026.09 - 2031.06(Expected)*, **Zhejiang University**, Ph.D. in Computer Science and Technology
+- *2022.09 - 2026.06(Expected)*, **Huazhong University of Science and Technology**, B.E. in Artificial Intelligence
 
-- *2022.09 - Present*, Huazhong University of Science and Technology, Bachelor of Artificial Intelligence
-
-# 💻 Internships
-- *2025.04 - Present*, Research Intern, National Engineering Laboratory for Video Technology, Peking University (collaborated with Prof. [Ge Li](https://www.ece.pku.edu.cn/info/1046/2658.htm))
-- *2024.05 - 2025.03*, Research Intern, Intelligence Manufacturing and Data Science Laboratory, Huazhong University of Science and Technology (Advised by Prof. [Lijun Zhu](http://faculty.hust.edu.cn/ZHULIJUN/en/more/2288717/jsjjgd/index.htm))
+# 💻 Internship
+- *2025.08*, Research Intern, School of Artificial Intelligence (SAI), Shanghai Jiao Tong University (Advised by Prof. [Wenzhao Lian](https://lianwenzhao.github.io/))
+- *2025.04 - 2025.07*, Research Intern, National Engineering Laboratory for Video Technology, Peking University
+- *2024.05 - 2025.03*, Research Intern, Intelligence Manufacturing and Data Science Laboratory, Huazhong University of Science and Technology
