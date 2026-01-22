@@ -27,7 +27,7 @@ My current research centers on **Generative Embodied AI**, aiming to scale up ro
 
 - **Scalable Humanoid Control**: Developing **Retargeting-free** imitation learning frameworks. By aligning human video latents with robot proprioception, I aim to achieve adaptive **Whole-Body Control (WBC)** without manual motion retargeting.
 
-**Engineering Background** Prior to my research on generative models, I established a full-stack foundation in robotics during the first three years of my undergraduate studies. My early work integrated **Non-linear Control** with **Perception Systems**, where I implemented MPC and CLF-CBF algorithms for locomotion and navigation of quadruped robots and distributed swarms. I developed multi-modal perception pipelines fusing LiDAR and depth sensors, and designed VLM-based tactical analysis systems requiring complex spatial reasoning. These engineering efforts, validated through national competitions, provided me with critical insights into the Sim2Real gap that now informs my data-driven research.
+**Engineering Background** Prior to my research on generative models, I established a full-stack foundation in robotics during the first three years of my undergraduate studies. My early work integrated **Non-linear Control** with **Perception Systems**, where I implemented MPC and CLF-CBF algorithms for locomotion and navigation of quadruped robots and distributed swarms. I developed multi-modal perception pipelines fusing LiDAR and depth sensors, and designed VLM-based tactical analysis systems requiring complex spatial reasoning. These engineering efforts provided me with critical insights into the Sim2Real gap that now informs my data-driven research.
 
 
 # 🔥 News
