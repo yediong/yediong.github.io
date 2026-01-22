@@ -17,29 +17,27 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome to my personal website! I am Tinghong Ye (Chinese: 叶庭宏), a highly motivated and passionate undergraduate student majoring in Artificial Intelligence at Huazhong University of Science and Technology (HUST). I am currently a senior (Class of 2022) with a strong academic record and a deep interest in **Embodied AI**, particularly in **Robotics control and perception algorithms**.
+Welcome to my personal website! I am Tinghong Ye (Chinese: 叶庭宏), a highly motivated and passionate undergraduate student majoring in Artificial Intelligence at Huazhong University of Science and Technology (HUST). I am currently a senior (Class of 2022) with a strong academic record and a deep interest in **Embodied AI**, particularly in **motion foundation model and MLLM**.
 
-I am passionate about Embodied AI, focusing on building autonomous systems that can intelligently perceive, navigate, and interact with the physical world. My research integrates state-of-the-art techniques in **multi-modal perception, real-time motion planning, and model predictive control (MPC)**. I apply these principles to challenging platforms like quadruped robots, aiming to enhance their autonomy and adaptability in complex, unstructured environments.
+My current research centers on **Generative Embodied AI**, aiming to scale up robot learning by bridging the gap between vast internet-scale data and physical execution. I specifically focus on constructing **Motion Foundation Models** and **Generalist Humanoid Policies** through the following angles:
 
-- **3D Vision & Scene Understanding🧠**: Construct the SpatialReason benchmark containing multi-hop QA pairs that require complex **spatial perception**, effectively enhance the interpretability of 3D-VQA reasoning paths.
+- **Unified Cross-Modal Representations**: Utilizing **Discrete Motion Tokenization** to align continuous actions with language/video embeddings, enabling **Multi-modal LLMs** to autoregressively generate complex robot behaviors.
 
-- **Vision-Language Model Application👀**: Built a tactical analysis system based on Vision-Language Models, employing CoT prompting to reason and predict complex sequential actions.
+- **Video-Driven Policy Learning**: Leveraging **Generative Video Priors** and **Diffusion Transformers (DiT)** to model predictive dynamics, serving as high-fidelity simulators for robust **Closed-loop Control**.
 
-- **Multi-Agent Formation Control🦵**: Designing the experiments of **CLF-CBF-based algorithms** for distributed quadruped robot swarms, optimizing obstacle traversal through hierarchical conflict resolution and dynamic path planning.
+- **Scalable Humanoid Control**: Developing **Retargeting-free** imitation learning frameworks. By aligning human video latents with robot proprioception, I aim to achieve adaptive **Whole-Body Control (WBC)** without manual motion retargeting.
 
-- **Sensor-Driven Autonomy🔍**: Enhancing environmental perception via **LiDAR and depth camera fusion**, leveraging LCCP segmentation and RANSAC plane fitting to improve localization accuracy in unstructured scenarios.
+**Engineering Background** Prior to my research on generative models, I established a full-stack foundation in robotics during the first three years of my undergraduate studies. My early work integrated **Non-linear Control** with **Perception Systems**, where I implemented MPC and CLF-CBF algorithms for locomotion and navigation of quadruped robots and distributed swarms. I developed multi-modal perception pipelines fusing LiDAR and depth sensors, and designed VLM-based tactical analysis systems requiring complex spatial reasoning. These engineering efforts, validated through national competitions, provided me with critical insights into the Sim2Real gap that now informs my data-driven research.
 
-- **Real-Time Optimization⚡**: Implementing **MPC controllers for 12-DOF quadruped robots**, balancing computational efficiency and motion precision through C++-based matrix operations and ROS integration.
-
-These innovations have been validated in national robotics competitions and contribute to the development of a more capable and adaptable robotic system capable of navigating complex environments.  Pursuing further research in these areas will bridge theoretical advancements with real-world deployability, fostering intelligent robotics that adapt to evolving challenges.
 
 # 🔥 News
+- *2025.12*: &nbsp;🤗 Started Interning at the AIGC Algorithm Group, Hithink RoyalFlush (同花顺), exploring the intersection of Video Generation and Embodied AI.
 - *2025.09*: &nbsp;🎉 Will be joining the [DCD Lab](http://www.cs.zju.edu.cn/_upload/article/files/d4/45/e46a2ca6469693738d84d1fffc3f/cc70a9ee-44ce-4603-9e46-701564a0eb2a.pdf), Zhejiang University, focusing on Embodied AI and MLLM.
 - *2025.08*: &nbsp;🤗 Started Research Intern at [School of Artificial Intelligence (SAI)](https://soai.sjtu.edu.cn/), SJTU, focusing on collision-free motion control for Franka Emika robots.
 - *2025.04*: &nbsp;🤗 Started Research Intern at [National Engineering Laboratory for Video Technology – Shenzhen Division](https://web.pkusz.edu.cn/ldm/), PKU, focusing on 3D Understanding based on MLLM and CoT. 
 - *2024.05*: &nbsp;🤗 Started Research Intern at [Intelligence Manufacturing and Data Science Laboratory](http://imds.aia.hust.edu.cn/index.htm), Hust, focusing on Robotics Path-Planning and Control Algorithm. 
 
-# 📝 Publication
+# 📝 Publication (* denotes the equal contribution.)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2025</div><img src='images/CLFCBF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -50,7 +48,6 @@ Danfu Liu\*, Peixuan Song\*, **Tinghong Ye**, Qichen Liang, Jinhui Du, Lijun Zhu
 
 - Introduced a **hierarchical** control strategy: an upper-layer distributed planner for trajectory generation and a lower-layer MPC-based locomotion controller for trajectory tracking.
 - Demonstrated effectiveness through **simulations and real-world** experiments with Unitree A1 robots, achieving formation control in complex obstacle environments while meeting safety constraints.
-- The project code will be released after acceptance of the paper.
 </div>
 </div>
 
@@ -95,6 +92,7 @@ Tao Ma\*, **Tinghong Ye**\*, Lixin Deng\*, Yizhu Tang, TakMan LO, Kaip Tse, Yuzh
 - *2022.09 - 2026.06(Expected)*, **Huazhong University of Science and Technology**, B.E. in Artificial Intelligence
 
 # 💻 Internship
+- *2025.12 - now*, Research Intern, Hithink RoyalFlush Information Network Co.,Ltd..
 - *2025.08*, Research Intern, School of Artificial Intelligence (SAI), Shanghai Jiao Tong University (Advised by Prof. [Wenzhao Lian](https://lianwenzhao.github.io/))
 - *2025.04 - 2025.07*, Research Intern, National Engineering Laboratory for Video Technology, Peking University
 - *2024.05 - 2025.03*, Research Intern, Intelligence Manufacturing and Data Science Laboratory, Huazhong University of Science and Technology
