@@ -99,7 +99,7 @@ Tao Ma\*, **Tinghong Ye**\*, Lixin Deng\*, Yizhu Tang, TakMan LO, Kaip Tse, Yuzh
 
 <div style="display: flex; justify-content: center; align-items: center; height: 200px; margin: 0; padding: 0;">
     <div style="flex: 0 1 300px;"> <!-- Adjusted flex-grow to 0 and flex-basis to 300px -->
-        <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=BCzXnllK7DALNmWsuEPPoh2DRAH282QR2m3XPzLQJkg&cl=ffffff&w=a"></script>
+        <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=y38ZpjJPOGkFrL7UDHMu5amdpmh_HSFNPMP25JpvAiM&cl=ffffff&w=a"></script>
     </div>
 </div>
 
