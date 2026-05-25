@@ -31,11 +31,11 @@ My current research centers on **Generative Embodied AI**, aiming to scale up ro
 
 
 # 🔥 News
+- *2026.04*: &nbsp;🤗 Started interning at Unitree Robotics (宇树科技), exploring omni-modal humanoid whole-body motion generation and closed-loop control.
 - *2025.12*: &nbsp;🤗 Started Interning at the AIGC Algorithm Group, Hithink RoyalFlush (同花顺), exploring the intersection of Video Generation and Embodied AI.
 - *2025.09*: &nbsp;🎉 Will be joining the [DCD Lab](http://www.cs.zju.edu.cn/_upload/article/files/d4/45/e46a2ca6469693738d84d1fffc3f/cc70a9ee-44ce-4603-9e46-701564a0eb2a.pdf), Zhejiang University, focusing on Embodied AI and MLLM.
 - *2025.08*: &nbsp;🤗 Started Research Intern at [School of Artificial Intelligence (SAI)](https://soai.sjtu.edu.cn/), SJTU, focusing on collision-free motion control for Franka Emika robots.
-- *2025.04*: &nbsp;🤗 Started Research Intern at [National Engineering Laboratory for Video Technology – Shenzhen Division](https://web.pkusz.edu.cn/ldm/), PKU, focusing on 3D Understanding based on MLLM and CoT. 
-- *2024.05*: &nbsp;🤗 Started Research Intern at [Intelligence Manufacturing and Data Science Laboratory](http://imds.aia.hust.edu.cn/index.htm), Hust, focusing on Robotics Path-Planning and Control Algorithm. 
+
 
 # 📝 Publication (* denotes the equal contribution.)
 
@@ -89,10 +89,11 @@ Tao Ma\*, **Tinghong Ye**\*, Lixin Deng\*, Yizhu Tang, TakMan LO, Kaip Tse, Yuzh
 
 # 📖 Education
 - *2026.09 - 2031.06(Expected)*, **Zhejiang University**, Ph.D. in Computer Science and Technology
-- *2022.09 - 2026.06(Expected)*, **Huazhong University of Science and Technology**, B.E. in Artificial Intelligence
+- *2022.09 - 2026.06*, **Huazhong University of Science and Technology**, B.E. in Artificial Intelligence
 
 # 💻 Internship
-- *2025.12 - now*, Research Intern, Hithink RoyalFlush Information Network Co.,Ltd..
+- *2026.04 - Present*, Research Intern, Unitree Robotics.
+- *2025.12 - 2026.04*, Research Intern, Hithink RoyalFlush.
 - *2025.08*, Research Intern, School of Artificial Intelligence (SAI), Shanghai Jiao Tong University (Advised by Prof. [Wenzhao Lian](https://lianwenzhao.github.io/))
 - *2025.04 - 2025.07*, Research Intern, National Engineering Laboratory for Video Technology, Peking University
 - *2024.05 - 2025.03*, Research Intern, Intelligence Manufacturing and Data Science Laboratory, Huazhong University of Science and Technology
