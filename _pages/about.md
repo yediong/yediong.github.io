@@ -64,7 +64,7 @@ Tao Ma\*, **Tinghong Ye**\*, Lixin Deng\*, Yizhu Tang, TakMan LO, Kaip Tse, Yuzh
 </div>
 </div>
 
-# 🎖 Honors and AwardS
+# 🎖 Honors and Awards
 - *2025.09* **National Scholarship**
 - *2025.09* School merit student
 - *2025.07* First prize **(Runner-up)** in the **National** College Student Robot Competition (2025)
